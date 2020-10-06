@@ -226,6 +226,7 @@
       max-width: 450px; } }
   @media (max-width: 991.98px) {
     .slide-btn {
+	margin-top:17px;
       display: block !important; }
   
     .mobile-nenu-bar .mobile-menu-nav {
