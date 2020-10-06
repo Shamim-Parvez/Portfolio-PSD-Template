@@ -54,13 +54,13 @@
     });
   });
 
-	// var nice = $("html").niceScroll({
-  //   cursorcolor: "#f39c12",
-  //   cursorborder: "1px solid #f39c12",
-  //   cursorwidth: "3px",
-  //   scrollspeed:60,
-  //   mousescrollstep:40,
-  // }); 
+	var nice = $("html").niceScroll({
+    cursorcolor: "#f39c12",
+    cursorborder: "1px solid #f39c12",
+    cursorwidth: "3px",
+    scrollspeed:60,
+    mousescrollstep:40,
+  }); 
 
 
   var swiper = new Swiper('.swiper-container', {
