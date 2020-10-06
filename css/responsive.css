@@ -1,0 +1,563 @@
+@media (max-width: 1399.98px) {
+    .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+      font-size: 50px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 50px; }
+  
+    .navbar li.nav-item a.nav-link {
+      font-size: 18px;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+  
+    .dropdown {
+      padding-left: 10px;
+      padding-right: 0;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+  
+    .carousel-item img {
+      height: 600px;
+      object-fit: cover; }
+  
+    .about-section .about-me-content {
+      padding-left: 75px;
+      padding-right: 75px; }
+  
+    .about-section .heading {
+      padding-bottom: 45px; }
+  
+    .about-section .about-me-content p {
+      margin-bottom: 10px;
+      font-size: 17px; }
+  
+    .about-section .about-me-content .counter {
+      padding-top: 0; }
+  
+    .progress {
+      height: 10px; }
+  
+    .about-section .about-me-content .counter span {
+      font-size: 16px; }
+  
+    .service-section .service-box {
+      padding: 40px 5px; }
+
+      .recent-story .story-content {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+  
+    .life-story-section .life-story-content p {
+      margin-bottom: 20px; } }
+  @media (max-width: 1199.98px) {
+    nav .mynav-bar ul li.nav-item {
+      padding-left: 10px;
+      padding-right: 10px; }
+      nav .mynav-bar ul li.nav-item a.nav-link {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    nav .mynav-bar .dropdown {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+  
+    .heading h1 {
+      margin-bottom: 20px;
+      font-size: 25px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+      font-size: 40px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 40px; }
+  
+    .navbar li.nav-item a.nav-link {
+      font-size: 18px;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+  
+    .dropdown {
+      padding-left: 10px;
+      padding-right: 0;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+  
+    .carousel-item img {
+      height: 550px;
+      object-fit: cover; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .button {
+      top: 120%; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .btn-custom {
+      background: #F39C12 none repeat scroll 0% 0%;
+      color: #FFF;
+      font-weight: 600;
+      font-size: 17px;
+      margin: 0px 10px;
+      padding: 10px 28px; }
+  
+    .about-section .heading {
+      padding-bottom: 15px; }
+  
+    .about-section .about-me-content p {
+      font-size: 14px;
+      padding-bottom: 5px;
+      margin-bottom: 0; }
+  
+    .about-section .about-me-content .counter span {
+      font-size: 15px; }
+  
+    .about-section .about-me-content {
+      padding-left: 50px;
+      padding-right: 50px; }
+  
+    .service-section .service-box h2 {
+      font-size: 18px;
+      margin: 20px 0px; }
+  
+    .service-section .service-box p {
+      font-size: 16px; }
+  
+    .service-section .service-box h2 {
+      margin: 10px 0px; }
+  
+    .service-section .service-box .icon i {
+      width: 50px;
+      height: 50px;
+      line-height: 50px;
+      font-size: 20px;
+      transition: all 0.3s linear 0s; }
+  
+    .statistic-section .statistic .flaticon i {
+      font-size: 30px;
+      width: 80px;
+      height: 80px;
+      line-height: 80px;
+      margin: 30px auto; }
+  
+    .statistic-section .statistic h2 {
+      font-size: 20px; }
+  
+    .statistic-section .statistic h3 {
+      font-size: 30px; }
+  
+    .work-section .work {
+      margin-bottom: 20px; }
+  
+    .work-section ul {
+      margin-bottom: 30px; }
+  
+    .work-section .work .text p {
+      font-size: 14px;
+      padding-left: 10px; }
+  
+    .work-section .work .text h5 {
+      font-size: 16px;
+      padding-left: 10px; }
+  
+    .work-section .work a i {
+      width: 50px;
+      height: 50px;
+      line-height: 50px; }
+  
+    .recent-story .story-content p {
+      font-size: 14px;
+      margin: 10px 0px; }
+  
+    .life-story-section .life-story-content p {
+      margin-bottom: 10px;
+      font-size: 17px; }
+  
+    .life-story-section .life-story-content {
+      max-width: 550px;
+      margin: auto; }
+  
+    .life-story-section .heading {
+      padding-bottom: 40px; }
+  
+    .client-feedback .client-feedback .client-feedback-info p {
+      font-size: 17px; }
+  
+    .client-feedback .client-feedback .client-feedback-info {
+      padding: 20px; }
+  
+    .client-feedback .client-feedback .client-feedback-info h2 {
+      font-size: 20px; }
+  
+    .client-feedback .client-feedback .client-feedback-info p {
+      font-size: 17px; }
+  
+    .client-feedback .client-feedback .client .client-info h3 {
+      font-size: 20px; }
+  
+    .client-feedback .client-feedback .client .client-info p {
+      font-size: 18px; }
+  
+    .tweet-section .discription p br {
+      display: none; }
+  
+    .get-in-touch-section .touch-history {
+      margin: auto auto 60px; }
+  
+    .get-in-touch-section form label {
+      font-size: 18px; }
+  
+    .get-in-touch-section .btn {
+      font-weight: 600;
+      font-size: 16px;
+      padding: 10px 38px; }
+  
+    section {
+      padding-top: 50px;
+      padding-bottom: 50px; }
+  
+    .heading h1 {
+      font-size: 35px;
+      margin-bottom: 15px; }
+   
+  
+    .heading .line {
+      max-width: 450px; } }
+  @media (max-width: 991.98px) {
+    .slide-btn {
+      display: block !important; }
+  
+    .mobile-nenu-bar .mobile-menu-nav {
+      display: block !important; }
+  
+    .logo img {
+      max-width: 130px; }
+  
+    nav .mynav-bar {
+      display: none; }
+  
+    nav .logo {
+      padding-top: 20px;
+      padding-bottom: 20px; }
+  
+    .dropdown {
+      display: none; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+      font-size: 30px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 30px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .btn-custom {
+      font-size: 15px;
+      padding: 10px 20px; }
+  
+    .about-section .about-image {
+      max-width: 550px;
+      margin: auto;
+      margin-top: 40px; }
+  
+    .about-section .about-me-content p {
+      font-size: 16px; }
+  
+    .about-section .about-me-content .counter span {
+      font-size: 18px;
+      margin-top: 20px; }
+  
+    .statistic-section .statistic h2 {
+      font-size: 18px; }
+  
+    .statistic-section .statistic .flaticon i {
+      font-size: 25px;
+      width: 60px;
+      height: 60px;
+      line-height: 60px;
+      margin: 25px auto; }
+  
+    .work-section ul li {
+      padding: 18px;
+      font-size: 18px;
+      margin: 0; }
+  
+    .work-section .work .text h5 {
+      font-size: 14px;
+      padding-top: 10px; }
+  
+    .work-section .work .text p {
+      font-size: 13px;
+      padding-top: 0;
+      padding-bottom: 10px; }
+  
+    .recent-story .img {
+      max-width: 250px;
+      margin: auto;
+      margin-right: 0; }
+  
+    .recent-story .img2 {
+      max-width: 250px;
+      margin: auto;
+      margin-left: 0; }
+  
+    .life-story-section .life-story-content {
+      max-width: 550px;
+      margin: auto; }
+  
+    .life-story-section .life-story {
+      padding: 20px; }
+  
+    .life-story-section .heading {
+      padding-bottom: 30px; }
+  
+    .life-story-section .life-story-content p {
+      margin-bottom: 5px;
+      font-size: 16px; }
+  
+    .life-story-section .heading h1 {
+      font-size: 30px; }
+  
+    .heading {
+      padding-bottom: 45px; }
+  
+    .tweet-section .discription p {
+      font-size: 18px; }
+  
+    .get-in-touch-section .touch-history p {
+      font-size: 18px; }
+  
+    .get-in-touch-section form label {
+      font-size: 17px; }
+  
+    footer p {
+      color: #505050;
+      font-size: 17px; }
+  
+    .heading .line {
+      max-width: 350px; }
+  
+    .heading h1 {
+      font-size: 30px;
+      margin-bottom: 15px; } }
+  @media (max-width: 767.98px) {
+    .heading h1 {
+      font-size: 25px; }
+  
+    .carousel-item img {
+      height: 450px;
+      object-fit: cover; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+      font-size: 25px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 25px; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .btn-custom {
+      font-size: 13px;
+      padding: 10px 20px; }
+  
+    .statistic-section .statistic h2 {
+      font-size: 14px; }
+  
+    .statistic-section .statistic h3 {
+      font-size: 25px; }
+  
+    .statistic-section .container .row::before {
+      content: "";
+      position: inherit;
+      width: 0;
+      height: 0; }
+  
+    .work-section ul li {
+      font-size: 15px; }
+  
+    .work-section .work {
+      max-width: 350px;
+      margin: auto;
+      margin-bottom: 10px; }
+  
+    .work-section .work .text h5 {
+      color: #fff;
+      font-size: 18px;
+      font-weight: 600;
+      text-transform: uppercase;
+      padding-top: 20px;
+      padding-left: 30px; }
+  
+    .work-section .work .text p {
+      color: #9f9e9e;
+      padding-top: 5px;
+      padding-bottom: 20px;
+      padding-left: 30px;
+      text-transform: capitalize; }
+  
+
+      .life-story-section .life-story-content {
+        max-width: 550px;
+        padding: 20px;
+        margin: auto; }
+        .life-story-section .life-story-content p {
+          font-size: 18px;
+        }
+        .about-section .about-me-content p {
+          font-size: 18px;
+        }
+    .heading h1 {
+      font-size: 25px; }
+  
+    .life-story-section .heading h1 {
+      font-size: 25px; }
+      .about-section .about-me-content {
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 550px;
+        margin: auto;
+      }
+  
+    footer p {
+      color: #505050;
+      font-size: 16px; } }
+  @media (max-width: 575.98px) {
+    nav .container {
+      max-width: 80%; }
+      .mobile-nenu-bar .mobile-menu-nav .nav-list .nav-item .nav-link {
+        font-size: 20px;
+    }
+    .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+      font-size: 20px;
+      text-align: center; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 20px;
+      text-align: center; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .btn-custom {
+      font-size: 12px;
+      padding: 8px 18px; }
+  
+    .about-section .about-image {
+      display: none; }
+  
+    .service-section .service-box {
+      padding: 40px 20px;
+      max-width: 250px;
+      margin: auto;
+      margin-bottom: 16px; }
+  
+    .service-section .service-box h2 {
+      margin: 30px 0px;
+      font-size: 22px; }
+  
+    .service-section .service-box p {
+      font-size: 16px; }
+  
+    .statistic-section .statistic h2 {
+      font-size: 18px; }
+      .get-in-touch-section .touch-history p {
+        font-size: 16px;
+      }
+      .get-in-touch-section form label {
+        font-size: 16px;
+      }
+    .statistic-section .statistic {
+      margin-bottom: 45px; }
+      .get-in-touch-section form .form-control {
+        margin-bottom: 10px;
+      }
+  
+    .statistic-section .statistic .flaticon i {
+      margin: 15px auto; }
+      .address-section .address {
+        background-color: #f39c12;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+      }
+      .address-section .phone p {
+        font-size: 16px;
+      }
+      footer p {
+        font-size: 16px;
+      }
+      .tweet-section .discription p {
+        font-size: 16px;
+      }
+  
+
+  
+    .work-section ul {
+      margin-bottom: 0;
+      flex-direction: column;
+      align-items: center; }
+  
+    .work-section ul li {
+      margin-bottom: 5px;
+    padding: 12px 18px; }
+  
+    .work-section .heading {
+      padding-bottom: 20px; }
+  
+    .heading .line {
+      max-width: 250px; }
+  
+    .address-section .address {
+      padding: 30px 20px; }
+  
+    .address-section .address .office {
+      margin-bottom: 10px; }
+  
+    .get-in-touch-section .touch-history {
+      max-width: 480px;
+      margin: auto;
+      margin-bottom: 60px; }
+      .recent-story .col{
+        flex: 1 0 100%;
+      }
+      .recent-story .story-content {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+        text-align: center;
+    }
+    .recent-story .img {
+        max-width: inherit;
+        margin: auto;
+        /* margin-right: 0; */
+        width: 250px;
+    }
+    .card {
+        border: 0;
+    }
+  
+    form {
+      max-width: 400px;
+      margin: auto; } }
+  @media (max-width: 480px) {
+    .mobile-nenu-bar .mobile-menu-nav .nav-list .nav-item .nav-link {
+      font-size: 18px; }
+  
+    .mobile-nenu-bar .mobile-menu-nav .nav-list .nav-item {
+      margin: 5px auto; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption .button {
+      display: none; }
+  
+    .slider-section .carousel-inner .carousel-item .carousel-caption p {
+      font-size: 18px;
+      font-weight: 300; }
+  
+    .service-section .service-box h2 {
+      margin: 20px 0px;
+      font-size: 20px; }
+      .recent-story .col{
+        flex: 1 0 100%;
+      }
+      .service-section .service-box p{
+        font-size: 16px;
+      }
+      .work-section ul li {
+        margin-bottom: 4px;
+        padding: 12px 14px;
+      }
+    .follow-me-section .social-list ul li {
+      padding: 1px; } }
+  
+  
