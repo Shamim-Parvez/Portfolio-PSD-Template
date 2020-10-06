@@ -57,7 +57,10 @@
       nav .mynav-bar ul li.nav-item a.nav-link {
         padding-top: 30px;
         padding-bottom: 30px;
+	font-size:18px;
     }
+	nav .logo {
+        padding-top: 25px; }  
     nav .mynav-bar .dropdown {
         padding-top: 30px;
         padding-bottom: 30px;
@@ -421,12 +424,17 @@
       .mobile-nenu-bar .mobile-menu-nav .nav-list .nav-item .nav-link {
         font-size: 20px;
     }
+	nav .logo {
+		padding-top: 25px;
+		padding-bottom: 20px;
+	}	  
     .slider-section .carousel-inner .carousel-item .carousel-caption h5 {
-      font-size: 20px;
+      font-size: 35px;
       text-align: center; }
   
     .slider-section .carousel-inner .carousel-item .carousel-caption p {
-      font-size: 20px;
+      font-size: 25px;
+	font-weight:300;
       text-align: center; }
   
     .slider-section .carousel-inner .carousel-item .carousel-caption .btn-custom {
