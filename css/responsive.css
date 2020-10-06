@@ -540,9 +540,9 @@
     .slider-section .carousel-inner .carousel-item .carousel-caption .button {
       display: none; }
   
-    .slider-section .carousel-inner .carousel-item .carousel-caption p {
-      font-size: 18px;
-      font-weight: 300; }
+.slider-section .carousel-inner .carousel-item .carousel-caption h5 {
+	font-size: 30px;
+}
   
     .service-section .service-box h2 {
       margin: 20px 0px;
